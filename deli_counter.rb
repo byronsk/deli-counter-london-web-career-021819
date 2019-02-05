@@ -14,4 +14,6 @@ def take_a_number(array, name)
 end
 end
 
-def now_serving()
+def now_serving(new_array)
+  if new_array.length == 0
+    puts 
