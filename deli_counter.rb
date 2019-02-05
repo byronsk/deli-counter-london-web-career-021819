@@ -19,4 +19,4 @@ def now_serving(new_array)
     puts "There is nobody waiting to be served!"
   else
   end
-  
+end
